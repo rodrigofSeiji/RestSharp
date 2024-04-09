@@ -1,0 +1,2 @@
+C:\Automação\Test_teste_api\RestSharpTest\RestSharpTest\obj\Debug\RestSharpTest.csproj.AssemblyReference.cache
+C:\Automação\Test_teste_api\RestSharpTest\RestSharpTest\obj\Debug\RestSharpTest.csproj.CoreCompileInputs.cache
